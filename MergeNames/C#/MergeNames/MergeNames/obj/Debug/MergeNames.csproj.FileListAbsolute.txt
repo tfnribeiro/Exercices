@@ -1,0 +1,7 @@
+C:\Users\tyagu\source\repos\MergeNames\MergeNames\bin\Debug\MergeNames.exe.config
+C:\Users\tyagu\source\repos\MergeNames\MergeNames\bin\Debug\MergeNames.exe
+C:\Users\tyagu\source\repos\MergeNames\MergeNames\bin\Debug\MergeNames.pdb
+C:\Users\tyagu\source\repos\MergeNames\MergeNames\obj\Debug\MergeNames.csprojAssemblyReference.cache
+C:\Users\tyagu\source\repos\MergeNames\MergeNames\obj\Debug\MergeNames.csproj.CoreCompileInputs.cache
+C:\Users\tyagu\source\repos\MergeNames\MergeNames\obj\Debug\MergeNames.exe
+C:\Users\tyagu\source\repos\MergeNames\MergeNames\obj\Debug\MergeNames.pdb

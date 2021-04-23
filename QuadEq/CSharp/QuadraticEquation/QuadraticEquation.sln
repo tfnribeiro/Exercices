@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "ConsoleApp1\QuadraticEquation.csproj", "{1F19F70A-20EA-4858-B6F9-1B3AF3392747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquationTest", "QuadraticEquationTest\QuadraticEquationTest.csproj", "{80791CCA-6F22-42FD-950E-EEECE721AB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F19F70A-20EA-4858-B6F9-1B3AF3392747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F19F70A-20EA-4858-B6F9-1B3AF3392747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F19F70A-20EA-4858-B6F9-1B3AF3392747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F19F70A-20EA-4858-B6F9-1B3AF3392747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80791CCA-6F22-42FD-950E-EEECE721AB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80791CCA-6F22-42FD-950E-EEECE721AB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80791CCA-6F22-42FD-950E-EEECE721AB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80791CCA-6F22-42FD-950E-EEECE721AB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CBAEFA-9F38-4CBA-94A7-782B87AA0597}
+	EndGlobalSection
+EndGlobal
