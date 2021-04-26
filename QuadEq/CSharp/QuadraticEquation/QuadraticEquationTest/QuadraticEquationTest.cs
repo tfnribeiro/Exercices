@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using QuadraticEquation;
 
-namespace QuadraticEquationTest
+namespace QuadraticEquation
 {
     [TestClass]
     public class QuadraticEquationTest

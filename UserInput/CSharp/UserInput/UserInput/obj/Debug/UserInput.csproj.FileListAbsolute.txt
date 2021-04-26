@@ -1,0 +1,7 @@
+F:\GitHub\Exercices\UserInput\CSharp\UserInput\UserInput\bin\Debug\UserInput.exe.config
+F:\GitHub\Exercices\UserInput\CSharp\UserInput\UserInput\bin\Debug\UserInput.exe
+F:\GitHub\Exercices\UserInput\CSharp\UserInput\UserInput\bin\Debug\UserInput.pdb
+F:\GitHub\Exercices\UserInput\CSharp\UserInput\UserInput\obj\Debug\UserInput.csprojAssemblyReference.cache
+F:\GitHub\Exercices\UserInput\CSharp\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+F:\GitHub\Exercices\UserInput\CSharp\UserInput\UserInput\obj\Debug\UserInput.exe
+F:\GitHub\Exercices\UserInput\CSharp\UserInput\UserInput\obj\Debug\UserInput.pdb
