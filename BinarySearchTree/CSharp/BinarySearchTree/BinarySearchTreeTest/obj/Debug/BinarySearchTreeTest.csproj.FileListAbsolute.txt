@@ -1,0 +1,17 @@
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearchTreeTest.dll
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearchTreeTest.pdb
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearch.exe
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearch.pdb
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\BinarySearch.exe.config
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.csprojAssemblyReference.cache
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.csproj.CoreCompileInputs.cache
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.csproj.CopyComplete
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.dll
+F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.pdb

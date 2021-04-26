@@ -1,0 +1,7 @@
+F:\GitHub\Exercices\Song\CSharp\Song\Song\bin\Debug\Song.exe.config
+F:\GitHub\Exercices\Song\CSharp\Song\Song\bin\Debug\Song.exe
+F:\GitHub\Exercices\Song\CSharp\Song\Song\bin\Debug\Song.pdb
+F:\GitHub\Exercices\Song\CSharp\Song\Song\obj\Debug\Song.csprojAssemblyReference.cache
+F:\GitHub\Exercices\Song\CSharp\Song\Song\obj\Debug\Song.csproj.CoreCompileInputs.cache
+F:\GitHub\Exercices\Song\CSharp\Song\Song\obj\Debug\Song.exe
+F:\GitHub\Exercices\Song\CSharp\Song\Song\obj\Debug\Song.pdb

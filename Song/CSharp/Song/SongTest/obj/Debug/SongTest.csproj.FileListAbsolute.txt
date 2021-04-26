@@ -1,0 +1,17 @@
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\SongTest.dll
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\SongTest.pdb
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Song.exe
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Song.pdb
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Song.exe.config
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\obj\Debug\SongTest.csprojAssemblyReference.cache
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\obj\Debug\SongTest.csproj.CoreCompileInputs.cache
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\obj\Debug\SongTest.csproj.CopyComplete
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\obj\Debug\SongTest.dll
+F:\GitHub\Exercices\Song\CSharp\Song\SongTest\obj\Debug\SongTest.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Song", "Song\Song.csproj", "{D10F0A16-51FE-4CAA-A639-9C7908076DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongTest", "SongTest\SongTest.csproj", "{DC2D6F90-C8E8-4A54-A6B9-5A6B0A16C28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10F0A16-51FE-4CAA-A639-9C7908076DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10F0A16-51FE-4CAA-A639-9C7908076DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10F0A16-51FE-4CAA-A639-9C7908076DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10F0A16-51FE-4CAA-A639-9C7908076DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2D6F90-C8E8-4A54-A6B9-5A6B0A16C28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2D6F90-C8E8-4A54-A6B9-5A6B0A16C28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2D6F90-C8E8-4A54-A6B9-5A6B0A16C28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2D6F90-C8E8-4A54-A6B9-5A6B0A16C28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83725E84-9FBB-4E20-8E09-550CFC2B71D8}
+	EndGlobalSection
+EndGlobal
