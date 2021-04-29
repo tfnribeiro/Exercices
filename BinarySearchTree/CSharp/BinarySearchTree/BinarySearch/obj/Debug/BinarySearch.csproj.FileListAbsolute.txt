@@ -1,7 +1,0 @@
-F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearch\bin\Debug\BinarySearch.exe.config
-F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearch\bin\Debug\BinarySearch.exe
-F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearch\bin\Debug\BinarySearch.pdb
-F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
-F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
-F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearch\obj\Debug\BinarySearch.exe
-F:\GitHub\Exercices\BinarySearchTree\CSharp\BinarySearchTree\BinarySearch\obj\Debug\BinarySearch.pdb
