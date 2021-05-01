@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainComposition", "TrainComposition\TrainComposition.csproj", "{769ABD4B-F7B9-4549-A7E7-58B11F1FDED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainCompositionTest", "TrainCompositionTest\TrainCompositionTest.csproj", "{3BD21F6F-AB8E-42AE-8578-1AE5D47274ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769ABD4B-F7B9-4549-A7E7-58B11F1FDED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769ABD4B-F7B9-4549-A7E7-58B11F1FDED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769ABD4B-F7B9-4549-A7E7-58B11F1FDED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769ABD4B-F7B9-4549-A7E7-58B11F1FDED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD21F6F-AB8E-42AE-8578-1AE5D47274ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD21F6F-AB8E-42AE-8578-1AE5D47274ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD21F6F-AB8E-42AE-8578-1AE5D47274ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD21F6F-AB8E-42AE-8578-1AE5D47274ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83219F1-665D-45DC-BE43-D324FBEF4277}
+	EndGlobalSection
+EndGlobal
