@@ -40,3 +40,59 @@ Implement the class NumericInput that:
 
     Inherits TextInput
     Overrides the Add method so that each non-numeric character is ignored
+
+### Two Sum
+Write a function that, when passed a list and a target sum, returns, efficiently with respect to time used, two distinct zero-based indices of any two of the numbers, whose sum is equal to the target sum. If there are no two numbers, the function should return null.
+
+For example, FindTwoSum(new List<int>() { 3, 1, 5, 7, 5, 9 }, 10) should return a Tuple<int, int> containing any of the following pairs of indices:
+
+    0 and 3 (or 3 and 0) as 3 + 7 = 10
+    1 and 5 (or 5 and 1) as 1 + 9 = 10
+    2 and 4 (or 4 and 2) as 5 + 5 = 10
+
+### Account 
+Each account on a website has a set of access flags that represent a users access.
+
+Update and extend the enum so that it contains three new access flags:
+
+    A Writer access flag that is made up of the Submit and Modify flags.
+    An Editor access flag that is made up of the Delete, Publish and Comment flags.
+    An Owner access that is made up of the Writer and Editor flags.
+    
+### Folders
+Implement a function FolderNames, which accepts a string containing an XML file that specifies folder structure and returns all folder names that start with startingLetter. The XML format is given in the example below.
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<folder name="c">
+    <folder name="program files">
+        <folder name="uninstall information" />
+    </folder>
+    <folder name="users" />
+</folder>
+```
+
+### Sorted Search
+Implement function CountNumbers that accepts a sorted array of unique integers and, efficiently with respect to time used, counts the number of array elements that are less than the parameter lessThan.
+
+### Train Composition
+A TrainComposition is built by attaching and detaching wagons from the left and the right sides, efficiently with respect to time used.
+
+### Route Planner
+As a part of the route planner, the RouteExists method is used as a quick filter if the destination is reachable, before using more computationally intensive procedures for finding the optimal route.
+
+The roads on the map are rasterized and produce a matrix of boolean values - true if the road is present or false if it is not. The roads in the matrix are connected only if the road is immediately left, right, below or above it.
+
+Finish the RouteExists method so that it returns true if the destination is reachable or false if it is not. The fromRow and fromColumn parameters are the starting row and column in the mapMatrix. The toRow and toColumn are the destination row and column in the mapMatrix. The mapMatrix parameter is the above mentioned matrix produced from the map.
+
+### Alert Service
+
+Refactor the AlertService and AlertDAO classes:
+
+    Create a new interface, named IAlertDAO, that contains the same methods as AlertDAO.
+    AlertDAO should implement the IAlertDAO interface.
+    AlertService should have a constructor that accepts IAlertDAO.
+    The RaiseAlert and GetAlertTime methods should use the object passed through the constructor.
+
+
+
